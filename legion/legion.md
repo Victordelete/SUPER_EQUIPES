@@ -16,3 +16,6 @@ Enquanto a X-Force lida com as ameaças externas de Krakoa, é a Legion of X que
 ##Imagem da equipe
 
 ![Legion](https://eb6f93.a2cdn1.secureserver.net/wp-content/uploads/2022/04/todas-equipes-marvel-250422-3-675x1024.jpg)
+
+
+* [VOLTAR](../README.md).
