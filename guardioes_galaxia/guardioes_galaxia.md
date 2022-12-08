@@ -22,3 +22,6 @@ Atualmente a equipe dos Guardiões da Galáxia está bastante inflada. O grupo d
 ##Imagem da equipe
 
 ![Guardiões da Galaxia](https://eb6f93.a2cdn1.secureserver.net/wp-content/uploads/2022/04/todas-equipes-marvel-250422-7.jpg)
+
+
+* [VOLTAR](../README.md).
